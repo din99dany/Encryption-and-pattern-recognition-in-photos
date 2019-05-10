@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1543663125 source:c:\users\dan\desktop\criptare-pp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structuri_date.c"
+
+1543662546 source:c:\users\dan\desktop\criptare-pp\structuri_date.c
+	<stdio.h>
+	<stdlib.h>
+
+1543662785 source:c:\users\dan\desktop\criptare-pp\criptare.c
+	<stdio.h>
+	<stdlib.h>
+	"structuri_date.c"
+
+1543662546 c:\users\dan\desktop\criptare-pp\structuri_date.c
+	<stdio.h>
+	<stdlib.h>
+
+1543662702 c:\users\dan\desktop\criptare-pp\criptare.c
+	<stdio.h>
+	<stdlib.h>
+	"structuri_date.c"
+
+1543663046 c:\users\dan\desktop\criptare-pp\store_load.c
+	"structuri_date.c"
+
+1543663046 source:c:\users\dan\desktop\criptare-pp\store_load.c
+	"structuri_date.c"
+
+1543662546 source:c:\users\dan\desktop\proiect_pp\criptare-pp\structuri_date.c
+	<stdio.h>
+	<stdlib.h>
+
+1545824833 source:c:\users\dan\desktop\proiect_pp\criptare-pp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../headers/structuri_date.h"
+	"../headers/store_load.h"
+	"../headers/criptare.c"
+
+1543664447 c:\users\dan\desktop\proiect_pp\criptare-pp\date.h
+
+1544275037 c:\users\dan\desktop\proiect_pp\headers\structuri_date.h
+
+1544283215 c:\users\dan\desktop\proiect_pp\headers\store_load.h
+	"structuri_date.h"
+
+1545574061 c:\users\dan\desktop\proiect_pp\headers\criptare.c
+	<stdio.h>
+	<stdlib.h>
+	"../headers/structuri_date.h"
+	"../headers/store_load.h"
+	"../headers/chi.c"
+
+1545573475 c:\users\dan\desktop\proiect_pp\headers\chi.c
+	<stdio.h>
+	<stdlib.h>
+	"../headers/structuri_date.h"
+	"../headers/store_load.h"
+

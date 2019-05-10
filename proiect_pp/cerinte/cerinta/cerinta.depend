@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1545833229 source:c:\users\dan\desktop\proiect_pp\cerinte\cerinta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../../headers/store_load.h"
+	"../../headers/criptare.c"
+	"../../headers/match.c"
+
+1546436032 c:\users\dan\desktop\proiect_pp\headers\store_load.h
+	"structuri_date.h"
+
+1545827834 c:\users\dan\desktop\proiect_pp\headers\structuri_date.h
+
+1546435757 c:\users\dan\desktop\proiect_pp\headers\criptare.c
+	<stdio.h>
+	<stdlib.h>
+	"../headers/structuri_date.h"
+	"../headers/store_load.h"
+	"../headers/chi.c"
+
+1546435113 c:\users\dan\desktop\proiect_pp\headers\chi.c
+	<stdio.h>
+	<stdlib.h>
+	"structuri_date.h"
+	"store_load.h"
+
+1546437321 c:\users\dan\desktop\proiect_pp\headers\match.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"../headers/store_load.h"
+	"../headers/structuri_date.h"
+

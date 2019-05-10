@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1545572436 source:c:\users\dan\desktop\proiect_pp\testul chi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../headers/structuri_date.h"
+	"../headers/store_load.h"
+	"../headers/chi.c"
+
+1543670603 c:\users\dan\desktop\proiect_pp\criptare-pp\structuri_date.h
+
+1543670656 c:\users\dan\desktop\proiect_pp\criptare-pp\store_load.h
+	"structuri_date.h"
+
+1544275037 c:\users\dan\desktop\proiect_pp\headers\structuri_date.h
+
+1544283215 c:\users\dan\desktop\proiect_pp\headers\store_load.h
+	"structuri_date.h"
+
+1545572515 c:\users\dan\desktop\proiect_pp\headers\chi.c
+	<stdio.h>
+	<stdlib.h>
+	"../headers/structuri_date.h"
+	"../headers/store_load.h"
+
